@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.proxy": {
+        "enable": true,
+        "baseUrl": "/",
+        "proxyUrl": "http://localhost:8080/workspace/test.php"
+    }
+}
