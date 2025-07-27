@@ -6,3 +6,4 @@ Our platform operates as a multi-vendor marketplace where sellers can upload and
 <img width="1891" height="816" alt="image" src="https://github.com/user-attachments/assets/72309851-7cc4-40fd-a4f5-2fb97bbcd5a6" />
 <img width="949" height="425" alt="FrontPagePic" src="https://github.com/user-attachments/assets/fc170074-5506-411b-a363-672c909efcb6" />
 <img width="946" height="418" alt="image" src="https://github.com/user-attachments/assets/fd8e2cdd-b82d-4e63-8b3c-dc02eb04b814" />
+<img width="1814" height="841" alt="image" src="https://github.com/user-attachments/assets/4d95d3f9-9de0-48b3-bbe6-5f986112691b" />
